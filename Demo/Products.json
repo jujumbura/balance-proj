@@ -78,5 +78,21 @@
       "3621bb10-04b6-11e9-b130-e1f4aaa3aea3"
     ],
     "desired": null
+  },
+  {
+    "id": "730c6830-04b7-11e9-ae36-a30f1b074adb",
+    "name": "bread",
+    "groupIds": [
+      "294cd190-04b6-11e9-b130-e1f4aaa3aea3"
+    ],
+    "desired": null
+  },
+  {
+    "id": "83f63db0-04b7-11e9-ae36-a30f1b074adb",
+    "name": "hamburger",
+    "groupIds": [
+      "7a337630-04b7-11e9-ae36-a30f1b074adb"
+    ],
+    "desired": null
   }
 ]
