@@ -5,8 +5,9 @@
     "locationId": "c638f010-04b6-11e9-b130-e1f4aaa3aea3",
     "quantity": 4,
     "size": 1,
-    "remain": 4,
-    "acquireDate": "2018-12-21T00:30:09.475Z"
+    "remain": 3,
+    "acquireDate": "2018-12-21T00:30:09.475Z",
+    "disposeDate": null
   },
   {
     "id": "85a44660-04b8-11e9-b2ee-3b6116257960",

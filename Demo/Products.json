@@ -5,7 +5,7 @@
     "groupIds": [
       "2ccef370-04b6-11e9-b130-e1f4aaa3aea3"
     ],
-    "desired": null
+    "desired": 4
   },
   {
     "id": "488d0070-04b6-11e9-b130-e1f4aaa3aea3",
@@ -29,7 +29,7 @@
     "groupIds": [
       "3bfa5010-04b6-11e9-b130-e1f4aaa3aea3"
     ],
-    "desired": null
+    "desired": 12
   },
   {
     "id": "6618a180-04b6-11e9-b130-e1f4aaa3aea3",
@@ -37,7 +37,7 @@
     "groupIds": [
       "3bfa5010-04b6-11e9-b130-e1f4aaa3aea3"
     ],
-    "desired": null
+    "desired": 1
   },
   {
     "id": "82bd8c10-04b6-11e9-b130-e1f4aaa3aea3",
@@ -45,7 +45,7 @@
     "groupIds": [
       "7c3ecc00-04b6-11e9-b130-e1f4aaa3aea3"
     ],
-    "desired": null
+    "desired": 1
   },
   {
     "id": "88b47e80-04b6-11e9-b130-e1f4aaa3aea3",
@@ -57,7 +57,7 @@
   },
   {
     "id": "a0f79590-04b6-11e9-b130-e1f4aaa3aea3",
-    "name": "corn",
+    "name": "frozen corn",
     "groupIds": [
       "3621bb10-04b6-11e9-b130-e1f4aaa3aea3"
     ],
@@ -65,7 +65,7 @@
   },
   {
     "id": "afef3800-04b6-11e9-b130-e1f4aaa3aea3",
-    "name": "carrot",
+    "name": "bag carrots",
     "groupIds": [
       "3621bb10-04b6-11e9-b130-e1f4aaa3aea3"
     ],
@@ -85,11 +85,43 @@
     "groupIds": [
       "294cd190-04b6-11e9-b130-e1f4aaa3aea3"
     ],
-    "desired": null
+    "desired": 1
   },
   {
     "id": "83f63db0-04b7-11e9-ae36-a30f1b074adb",
     "name": "hamburger",
+    "groupIds": [
+      "7a337630-04b7-11e9-ae36-a30f1b074adb"
+    ],
+    "desired": null
+  },
+  {
+    "id": "68849900-0525-11e9-bbb6-41e3dcdb08ed",
+    "name": "popcorn",
+    "groupIds": [
+      "58f179e0-0525-11e9-bbb6-41e3dcdb08ed"
+    ],
+    "desired": null
+  },
+  {
+    "id": "72155400-0525-11e9-bbb6-41e3dcdb08ed",
+    "name": "oreos",
+    "groupIds": [
+      "58f179e0-0525-11e9-bbb6-41e3dcdb08ed"
+    ],
+    "desired": null
+  },
+  {
+    "id": "3bd6cda0-0526-11e9-bbb6-41e3dcdb08ed",
+    "name": "ice cream",
+    "groupIds": [
+      "20d5cf10-0526-11e9-bbb6-41e3dcdb08ed"
+    ],
+    "desired": null
+  },
+  {
+    "id": "12aef4b0-0527-11e9-8d91-493b32b09bdc",
+    "name": "sausage",
     "groupIds": [
       "7a337630-04b7-11e9-ae36-a30f1b074adb"
     ],
