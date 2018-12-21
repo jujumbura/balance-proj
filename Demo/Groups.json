@@ -1,0 +1,40 @@
+[
+  {
+    "id": "294cd190-04b6-11e9-b130-e1f4aaa3aea3",
+    "name": "food",
+    "parentIds": null,
+    "desired": null
+  },
+  {
+    "id": "2ccef370-04b6-11e9-b130-e1f4aaa3aea3",
+    "name": "fruit",
+    "parentIds": [
+      "294cd190-04b6-11e9-b130-e1f4aaa3aea3"
+    ],
+    "desired": null
+  },
+  {
+    "id": "3621bb10-04b6-11e9-b130-e1f4aaa3aea3",
+    "name": "vegetables",
+    "parentIds": [
+      "294cd190-04b6-11e9-b130-e1f4aaa3aea3"
+    ],
+    "desired": null
+  },
+  {
+    "id": "3bfa5010-04b6-11e9-b130-e1f4aaa3aea3",
+    "name": "dairy",
+    "parentIds": [
+      "294cd190-04b6-11e9-b130-e1f4aaa3aea3"
+    ],
+    "desired": null
+  },
+  {
+    "id": "7c3ecc00-04b6-11e9-b130-e1f4aaa3aea3",
+    "name": "cheese",
+    "parentIds": [
+      "3bfa5010-04b6-11e9-b130-e1f4aaa3aea3"
+    ],
+    "desired": null
+  }
+]

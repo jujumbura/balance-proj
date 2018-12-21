@@ -1,0 +1,82 @@
+[
+  {
+    "id": "445c4f10-04b6-11e9-b130-e1f4aaa3aea3",
+    "name": "apple",
+    "groupIds": [
+      "2ccef370-04b6-11e9-b130-e1f4aaa3aea3"
+    ],
+    "desired": null
+  },
+  {
+    "id": "488d0070-04b6-11e9-b130-e1f4aaa3aea3",
+    "name": "banana",
+    "groupIds": [
+      "2ccef370-04b6-11e9-b130-e1f4aaa3aea3"
+    ],
+    "desired": null
+  },
+  {
+    "id": "5c104580-04b6-11e9-b130-e1f4aaa3aea3",
+    "name": "pear",
+    "groupIds": [
+      "2ccef370-04b6-11e9-b130-e1f4aaa3aea3"
+    ],
+    "desired": null
+  },
+  {
+    "id": "6132f800-04b6-11e9-b130-e1f4aaa3aea3",
+    "name": "egg",
+    "groupIds": [
+      "3bfa5010-04b6-11e9-b130-e1f4aaa3aea3"
+    ],
+    "desired": null
+  },
+  {
+    "id": "6618a180-04b6-11e9-b130-e1f4aaa3aea3",
+    "name": "milk",
+    "groupIds": [
+      "3bfa5010-04b6-11e9-b130-e1f4aaa3aea3"
+    ],
+    "desired": null
+  },
+  {
+    "id": "82bd8c10-04b6-11e9-b130-e1f4aaa3aea3",
+    "name": "cheddar",
+    "groupIds": [
+      "7c3ecc00-04b6-11e9-b130-e1f4aaa3aea3"
+    ],
+    "desired": null
+  },
+  {
+    "id": "88b47e80-04b6-11e9-b130-e1f4aaa3aea3",
+    "name": "parmesan",
+    "groupIds": [
+      "7c3ecc00-04b6-11e9-b130-e1f4aaa3aea3"
+    ],
+    "desired": null
+  },
+  {
+    "id": "a0f79590-04b6-11e9-b130-e1f4aaa3aea3",
+    "name": "corn",
+    "groupIds": [
+      "3621bb10-04b6-11e9-b130-e1f4aaa3aea3"
+    ],
+    "desired": null
+  },
+  {
+    "id": "afef3800-04b6-11e9-b130-e1f4aaa3aea3",
+    "name": "carrot",
+    "groupIds": [
+      "3621bb10-04b6-11e9-b130-e1f4aaa3aea3"
+    ],
+    "desired": null
+  },
+  {
+    "id": "b6de4610-04b6-11e9-b130-e1f4aaa3aea3",
+    "name": "lettuce",
+    "groupIds": [
+      "3621bb10-04b6-11e9-b130-e1f4aaa3aea3"
+    ],
+    "desired": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "c0cbc710-04b6-11e9-b130-e1f4aaa3aea3",
+    "name": "fridge"
+  },
+  {
+    "id": "c34b6d10-04b6-11e9-b130-e1f4aaa3aea3",
+    "name": "pantry"
+  },
+  {
+    "id": "c638f010-04b6-11e9-b130-e1f4aaa3aea3",
+    "name": "counter"
+  },
+  {
+    "id": "d1887210-04b6-11e9-b130-e1f4aaa3aea3",
+    "name": "cabinets"
+  }
+]
