@@ -25,7 +25,7 @@
   },
   {
     "id": "6132f800-04b6-11e9-b130-e1f4aaa3aea3",
-    "name": "egg",
+    "name": "eggs",
     "groupIds": [
       "3bfa5010-04b6-11e9-b130-e1f4aaa3aea3"
     ],
@@ -124,6 +124,78 @@
     "name": "sausage",
     "groupIds": [
       "7a337630-04b7-11e9-ae36-a30f1b074adb"
+    ],
+    "desired": null
+  },
+  {
+    "id": "776b5540-0556-11e9-8237-cf97d4d69974",
+    "name": "gf grapefruit ipa",
+    "groupIds": [
+      "e70d36c0-0556-11e9-8237-cf97d4d69974"
+    ],
+    "desired": 6
+  },
+  {
+    "id": "a785a230-0556-11e9-8237-cf97d4d69974",
+    "name": "ninkasi total ipa",
+    "groupIds": [
+      "db55cb30-0556-11e9-8237-cf97d4d69974"
+    ],
+    "desired": null
+  },
+  {
+    "id": "eb9767e0-0558-11e9-a7e3-33500fa1ee52",
+    "name": "fat tire",
+    "groupIds": [
+      "db55cb30-0556-11e9-8237-cf97d4d69974"
+    ],
+    "desired": null
+  },
+  {
+    "id": "eaca41f0-055a-11e9-a7e3-33500fa1ee52",
+    "name": "409",
+    "groupIds": [
+      "521145d0-055a-11e9-a7e3-33500fa1ee52"
+    ],
+    "desired": 1
+  },
+  {
+    "id": "2609a580-055b-11e9-a7e3-33500fa1ee52",
+    "name": "paper towels",
+    "groupIds": [
+      "521145d0-055a-11e9-a7e3-33500fa1ee52"
+    ],
+    "desired": 20
+  },
+  {
+    "id": "87c04b80-055b-11e9-a7e3-33500fa1ee52",
+    "name": "rice chex",
+    "groupIds": [
+      "7c720200-055b-11e9-a7e3-33500fa1ee52"
+    ],
+    "desired": null
+  },
+  {
+    "id": "91e04e30-055b-11e9-a7e3-33500fa1ee52",
+    "name": "cinnamon chex",
+    "groupIds": [
+      "7c720200-055b-11e9-a7e3-33500fa1ee52"
+    ],
+    "desired": null
+  },
+  {
+    "id": "19f99d30-055c-11e9-a7e3-33500fa1ee52",
+    "name": "chobani yogurt",
+    "groupIds": [
+      "01a1c5a0-055c-11e9-a7e3-33500fa1ee52"
+    ],
+    "desired": null
+  },
+  {
+    "id": "347406a0-055c-11e9-a7e3-33500fa1ee52",
+    "name": "tillamook yogurt",
+    "groupIds": [
+      "01a1c5a0-055c-11e9-a7e3-33500fa1ee52"
     ],
     "desired": null
   }
