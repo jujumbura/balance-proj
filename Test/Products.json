@@ -1,7 +1,7 @@
 [
   {
     "id": "b3bbc2f0-1465-11e9-9e5f-99ae6f23d005",
-    "name": "apple",
+    "name": "red delicious apple",
     "groupIds": null,
     "desired": null
   },
@@ -32,6 +32,12 @@
   {
     "id": "f1f53300-146d-11e9-9be4-7918d4663807",
     "name": "sappy",
+    "groupIds": null,
+    "desired": null
+  },
+  {
+    "id": "b2b483f0-1498-11e9-a45c-83894f45089e",
+    "name": "granny smith apple",
     "groupIds": null,
     "desired": null
   }

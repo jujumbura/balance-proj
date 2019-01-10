@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "46d855a0-149b-11e9-a015-bd85de4efc31",
+    "name": "Fred Meyer"
+  },
+  {
+    "id": "a93690d0-149c-11e9-a400-67508fe91ba5",
+    "name": "Costco"
+  }
+]

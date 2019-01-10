@@ -8,5 +8,34 @@
     "remain": 1,
     "acquireDate": "2019-01-10T00:40:08.046Z",
     "disposeDate": null
+  },
+  {
+    "id": "e3de1370-1497-11e9-80ca-8bea72ca0f36",
+    "productId": "ebb96900-1465-11e9-b901-c506cfc1d249",
+    "locationId": "cfd5e6f0-1497-11e9-80ca-8bea72ca0f36",
+    "quantity": 1,
+    "size": 1,
+    "remain": 1,
+    "acquireDate": "2019-01-10T05:23:24.098Z",
+    "disposeDate": null
+  },
+  {
+    "id": "f0c094b0-149b-11e9-a7de-e1a5ce2a8cbf",
+    "productId": "b2b483f0-1498-11e9-a45c-83894f45089e",
+    "locationId": "1cc96d80-149b-11e9-a6d4-59ef59fcf598",
+    "quantity": 1,
+    "size": 1,
+    "remain": 1,
+    "acquireDate": "2019-01-10T05:52:23.319Z",
+    "disposeDate": null
+  },
+  {
+    "id": "4e66d0a0-149e-11e9-8bcc-bd59ec83cf78",
+    "productId": "b3bbc2f0-1465-11e9-9e5f-99ae6f23d005",
+    "locationId": "d201da60-1465-11e9-9e5f-99ae6f23d005",
+    "quantity": 1,
+    "size": 1,
+    "remain": 1,
+    "acquireDate": "2019-01-10T06:01:03.997Z"
   }
 ]

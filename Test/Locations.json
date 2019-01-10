@@ -1,6 +1,18 @@
 [
   {
     "id": "d201da60-1465-11e9-9e5f-99ae6f23d005",
-    "name": "fridge"
+    "name": "kitchen fridge"
+  },
+  {
+    "id": "cfd5e6f0-1497-11e9-80ca-8bea72ca0f36",
+    "name": "pantry"
+  },
+  {
+    "id": "db6e5170-149a-11e9-90b6-fbfdd8a6fd83",
+    "name": "counter"
+  },
+  {
+    "id": "1cc96d80-149b-11e9-a6d4-59ef59fcf598",
+    "name": "garage fridge"
   }
 ]
