@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "id": "b3bbc2f0-1465-11e9-9e5f-99ae6f23d005",
+    "name": "apple",
+    "groupIds": null,
+    "desired": null
+  },
+  {
+    "id": "ebb96900-1465-11e9-b901-c506cfc1d249",
+    "name": "pear",
+    "groupIds": null,
+    "desired": null
+  },
+  {
+    "id": "eebf2ef0-1465-11e9-b901-c506cfc1d249",
+    "name": "ham",
+    "groupIds": null,
+    "desired": null
+  },
+  {
+    "id": "f30eda00-1465-11e9-b901-c506cfc1d249",
+    "name": "beer",
+    "groupIds": null,
+    "desired": null
+  },
+  {
+    "id": "a4466b60-146d-11e9-bd78-f5818c9bc2c0",
+    "name": "cran-apple juice",
+    "groupIds": null,
+    "desired": null
+  },
+  {
+    "id": "f1f53300-146d-11e9-9be4-7918d4663807",
+    "name": "sappy",
+    "groupIds": null,
+    "desired": null
+  }
+]

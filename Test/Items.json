@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "4af9d350-1470-11e9-9e32-af064c80db37",
+    "productId": "b3bbc2f0-1465-11e9-9e5f-99ae6f23d005",
+    "locationId": "d201da60-1465-11e9-9e5f-99ae6f23d005",
+    "quantity": 1,
+    "size": 1,
+    "remain": 1,
+    "acquireDate": "2019-01-10T00:40:08.046Z",
+    "disposeDate": null
+  }
+]
