@@ -61,5 +61,23 @@
     "quantity": 1,
     "size": 1,
     "itemId": "a3068910-055e-11e9-a7e3-33500fa1ee52"
+  },
+  {
+    "id": "76fdb410-1625-11e9-a596-8b9fd8de528f",
+    "transactionId": "459deed0-1625-11e9-a596-8b9fd8de528f",
+    "productId": "eaca41f0-055a-11e9-a7e3-33500fa1ee52",
+    "price": 2.99,
+    "quantity": 1,
+    "size": 1,
+    "itemId": "d14e9560-1625-11e9-a596-8b9fd8de528f"
+  },
+  {
+    "id": "be322870-1625-11e9-a596-8b9fd8de528f",
+    "transactionId": "459deed0-1625-11e9-a596-8b9fd8de528f",
+    "productId": "83f63db0-04b7-11e9-ae36-a30f1b074adb",
+    "price": 4,
+    "quantity": 1,
+    "size": 1,
+    "itemId": "d5635a50-1625-11e9-a596-8b9fd8de528f"
   }
 ]
