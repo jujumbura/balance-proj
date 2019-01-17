@@ -120,5 +120,19 @@
       "d8536850-1778-11e9-963b-979876e9ac1d"
     ],
     "desired": null
+  },
+  {
+    "id": "f73cdcf0-19ef-11e9-9bff-372b39a1984c",
+    "name": "beverages",
+    "parentIds": null,
+    "desired": null
+  },
+  {
+    "id": "16e654f0-19f0-11e9-9bff-372b39a1984c",
+    "name": "powdered drinks",
+    "parentIds": [
+      "f73cdcf0-19ef-11e9-9bff-372b39a1984c"
+    ],
+    "desired": null
   }
 ]
