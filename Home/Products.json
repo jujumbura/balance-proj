@@ -417,7 +417,7 @@
   },
   {
     "id": "1a227480-177c-11e9-9755-b10960a66adc",
-    "name": "bag gf coconut granola",
+    "name": "bag gf granola",
     "groupIds": [
       "efef9fe0-185b-11e9-89ef-bbdd68d5495a"
     ],
@@ -1654,7 +1654,7 @@
   },
   {
     "id": "a5e1cb20-1b2c-11e9-9219-a11b8f926d3b",
-    "name": "bottle creamer",
+    "name": "bottle coffee creamer",
     "groupIds": [
       "9a277960-1b2c-11e9-9219-a11b8f926d3b"
     ],
@@ -1842,7 +1842,7 @@
     "groupIds": [
       "9a277960-1b2c-11e9-9219-a11b8f926d3b"
     ],
-    "desired": null
+    "desired": 1
   },
   {
     "id": "2b50fd90-1b81-11e9-a430-3ba9344223b0",
@@ -1874,7 +1874,7 @@
     "groupIds": [
       "9a277960-1b2c-11e9-9219-a11b8f926d3b"
     ],
-    "desired": null
+    "desired": 12
   },
   {
     "id": "4bba1c10-1b81-11e9-a430-3ba9344223b0",
@@ -2006,7 +2006,7 @@
   },
   {
     "id": "dea1d630-1b81-11e9-a430-3ba9344223b0",
-    "name": "bag limes",
+    "name": "lime",
     "groupIds": [
       "73b2e420-1b2e-11e9-9219-a11b8f926d3b"
     ],
@@ -2113,6 +2113,30 @@
     "name": "bottle chipotle tabasco",
     "groupIds": [
       "8f3b0090-185b-11e9-89ef-bbdd68d5495a"
+    ],
+    "desired": null
+  },
+  {
+    "id": "408b47f0-1c72-11e9-bb81-1320f99825e7",
+    "name": "can marinara sauce",
+    "groupIds": [
+      "160af190-185a-11e9-89ef-bbdd68d5495a"
+    ],
+    "desired": null
+  },
+  {
+    "id": "7f374990-1c72-11e9-bb81-1320f99825e7",
+    "name": "bag dried apricot",
+    "groupIds": [
+      "d690ca80-1859-11e9-89ef-bbdd68d5495a"
+    ],
+    "desired": null
+  },
+  {
+    "id": "a5b0aee0-1c72-11e9-bb81-1320f99825e7",
+    "name": "kid bars",
+    "groupIds": [
+      "ac441610-1859-11e9-89ef-bbdd68d5495a"
     ],
     "desired": null
   }
