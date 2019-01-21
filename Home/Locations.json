@@ -10,5 +10,17 @@
   {
     "id": "78af17b0-1b82-11e9-a430-3ba9344223b0",
     "name": "fridge"
+  },
+  {
+    "id": "a5b46380-1ce2-11e9-a245-87ba947edf09",
+    "name": "freezer"
+  },
+  {
+    "id": "dd334690-1d38-11e9-9f43-e5e9617845b1",
+    "name": "counter"
+  },
+  {
+    "id": "12048be0-1d39-11e9-9f43-e5e9617845b1",
+    "name": "garage"
   }
 ]
