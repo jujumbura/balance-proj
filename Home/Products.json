@@ -2572,5 +2572,299 @@
       "73b2e420-1b2e-11e9-9219-a11b8f926d3b"
     ],
     "desired": null
+  },
+  {
+    "id": "fed093b0-1e06-11e9-952e-4f65f6aa0a49",
+    "name": "creme de casis",
+    "groupIds": [
+      "e6326450-1e06-11e9-952e-4f65f6aa0a49"
+    ],
+    "desired": null
+  },
+  {
+    "id": "0b996f40-1e07-11e9-952e-4f65f6aa0a49",
+    "name": "travel frangelico",
+    "groupIds": [
+      "e6326450-1e06-11e9-952e-4f65f6aa0a49"
+    ],
+    "desired": null
+  },
+  {
+    "id": "16c62700-1e07-11e9-952e-4f65f6aa0a49",
+    "name": "lavendar liqueur",
+    "groupIds": [
+      "e6326450-1e06-11e9-952e-4f65f6aa0a49"
+    ],
+    "desired": null
+  },
+  {
+    "id": "302bec20-1e07-11e9-952e-4f65f6aa0a49",
+    "name": "apricot brandy",
+    "groupIds": [
+      "e6326450-1e06-11e9-952e-4f65f6aa0a49"
+    ],
+    "desired": null
+  },
+  {
+    "id": "3e567a90-1e07-11e9-952e-4f65f6aa0a49",
+    "name": "creme de menthe",
+    "groupIds": [
+      "e6326450-1e06-11e9-952e-4f65f6aa0a49"
+    ],
+    "desired": null
+  },
+  {
+    "id": "ea7a0e30-1e08-11e9-952e-4f65f6aa0a49",
+    "name": "angostura bitters",
+    "groupIds": [
+      "db90eab0-1e08-11e9-952e-4f65f6aa0a49"
+    ],
+    "desired": null
+  },
+  {
+    "id": "11d4f9e0-1e09-11e9-952e-4f65f6aa0a49",
+    "name": "plum bitters",
+    "groupIds": [
+      "db90eab0-1e08-11e9-952e-4f65f6aa0a49"
+    ],
+    "desired": null
+  },
+  {
+    "id": "191f2040-1e09-11e9-952e-4f65f6aa0a49",
+    "name": "rhubarb bitters",
+    "groupIds": [
+      "db90eab0-1e08-11e9-952e-4f65f6aa0a49"
+    ],
+    "desired": null
+  },
+  {
+    "id": "20ff4510-1e09-11e9-952e-4f65f6aa0a49",
+    "name": "travel peppermint schnapps",
+    "groupIds": [
+      "f599df90-1e06-11e9-952e-4f65f6aa0a49"
+    ],
+    "desired": null
+  },
+  {
+    "id": "29ca6620-1e09-11e9-952e-4f65f6aa0a49",
+    "name": "travel tequila",
+    "groupIds": null,
+    "desired": null
+  },
+  {
+    "id": "31384120-1e09-11e9-952e-4f65f6aa0a49",
+    "name": "campari",
+    "groupIds": [
+      "e6326450-1e06-11e9-952e-4f65f6aa0a49"
+    ],
+    "desired": null
+  },
+  {
+    "id": "3b36b210-1e09-11e9-952e-4f65f6aa0a49",
+    "name": "dry vermouth",
+    "groupIds": [
+      "e6326450-1e06-11e9-952e-4f65f6aa0a49"
+    ],
+    "desired": null
+  },
+  {
+    "id": "449e8850-1e09-11e9-952e-4f65f6aa0a49",
+    "name": "Westland whiskey",
+    "groupIds": [
+      "f599df90-1e06-11e9-952e-4f65f6aa0a49"
+    ],
+    "desired": null
+  },
+  {
+    "id": "5a993600-1e09-11e9-952e-4f65f6aa0a49",
+    "name": "red vermouth",
+    "groupIds": [
+      "e6326450-1e06-11e9-952e-4f65f6aa0a49"
+    ],
+    "desired": null
+  },
+  {
+    "id": "625e31b0-1e09-11e9-952e-4f65f6aa0a49",
+    "name": "kahlua",
+    "groupIds": [
+      "e6326450-1e06-11e9-952e-4f65f6aa0a49"
+    ],
+    "desired": null
+  },
+  {
+    "id": "6948fa00-1e09-11e9-952e-4f65f6aa0a49",
+    "name": "bourbon",
+    "groupIds": [
+      "f599df90-1e06-11e9-952e-4f65f6aa0a49"
+    ],
+    "desired": null
+  },
+  {
+    "id": "71a6da50-1e09-11e9-952e-4f65f6aa0a49",
+    "name": "handle vodka",
+    "groupIds": [
+      "f599df90-1e06-11e9-952e-4f65f6aa0a49"
+    ],
+    "desired": null
+  },
+  {
+    "id": "77e86a50-1e09-11e9-952e-4f65f6aa0a49",
+    "name": "tequila",
+    "groupIds": [
+      "f599df90-1e06-11e9-952e-4f65f6aa0a49"
+    ],
+    "desired": null
+  },
+  {
+    "id": "7e9fc690-1e09-11e9-952e-4f65f6aa0a49",
+    "name": "mezcal",
+    "groupIds": [
+      "f599df90-1e06-11e9-952e-4f65f6aa0a49"
+    ],
+    "desired": null
+  },
+  {
+    "id": "844b5820-1e09-11e9-952e-4f65f6aa0a49",
+    "name": "triple sec",
+    "groupIds": [
+      "e6326450-1e06-11e9-952e-4f65f6aa0a49"
+    ],
+    "desired": null
+  },
+  {
+    "id": "8de2c9e0-1e09-11e9-952e-4f65f6aa0a49",
+    "name": "small chartreuse",
+    "groupIds": [
+      "e6326450-1e06-11e9-952e-4f65f6aa0a49"
+    ],
+    "desired": null
+  },
+  {
+    "id": "93a20a80-1e09-11e9-952e-4f65f6aa0a49",
+    "name": "aquavit",
+    "groupIds": [
+      "f599df90-1e06-11e9-952e-4f65f6aa0a49"
+    ],
+    "desired": null
+  },
+  {
+    "id": "96eca1a0-1e09-11e9-952e-4f65f6aa0a49",
+    "name": "scotch",
+    "groupIds": [
+      "f599df90-1e06-11e9-952e-4f65f6aa0a49"
+    ],
+    "desired": null
+  },
+  {
+    "id": "9cb223d0-1e09-11e9-952e-4f65f6aa0a49",
+    "name": "good tequila",
+    "groupIds": [
+      "f599df90-1e06-11e9-952e-4f65f6aa0a49"
+    ],
+    "desired": null
+  },
+  {
+    "id": "a268d8f0-1e09-11e9-952e-4f65f6aa0a49",
+    "name": "Bombay dry gin",
+    "groupIds": [
+      "f599df90-1e06-11e9-952e-4f65f6aa0a49"
+    ],
+    "desired": null
+  },
+  {
+    "id": "ada34c50-1e09-11e9-952e-4f65f6aa0a49",
+    "name": "CMS",
+    "groupIds": [
+      "edab89f0-1e06-11e9-952e-4f65f6aa0a49"
+    ],
+    "desired": null
+  },
+  {
+    "id": "b60d61a0-1e09-11e9-952e-4f65f6aa0a49",
+    "name": "Baron Herzog cabernet",
+    "groupIds": [
+      "edab89f0-1e06-11e9-952e-4f65f6aa0a49"
+    ],
+    "desired": null
+  },
+  {
+    "id": "c81b92e0-1e09-11e9-952e-4f65f6aa0a49",
+    "name": "Kirkland Signature malbec",
+    "groupIds": [
+      "edab89f0-1e06-11e9-952e-4f65f6aa0a49"
+    ],
+    "desired": null
+  },
+  {
+    "id": "d5143100-1e09-11e9-952e-4f65f6aa0a49",
+    "name": "large Kirkland Signature cabernet",
+    "groupIds": [
+      "edab89f0-1e06-11e9-952e-4f65f6aa0a49"
+    ],
+    "desired": null
+  },
+  {
+    "id": "dc4e9ff0-1e09-11e9-952e-4f65f6aa0a49",
+    "name": "Pessemist red blend",
+    "groupIds": [
+      "edab89f0-1e06-11e9-952e-4f65f6aa0a49"
+    ],
+    "desired": null
+  },
+  {
+    "id": "02cd0e50-1e0a-11e9-952e-4f65f6aa0a49",
+    "name": "Chenin Blanc",
+    "groupIds": [
+      "ec6b1350-1e09-11e9-952e-4f65f6aa0a49"
+    ],
+    "desired": null
+  },
+  {
+    "id": "0ab60cc0-1e0a-11e9-952e-4f65f6aa0a49",
+    "name": "cherry brandy",
+    "groupIds": [
+      "e6326450-1e06-11e9-952e-4f65f6aa0a49"
+    ],
+    "desired": null
+  },
+  {
+    "id": "11bee460-1e0a-11e9-952e-4f65f6aa0a49",
+    "name": "marsala",
+    "groupIds": [
+      "e6326450-1e06-11e9-952e-4f65f6aa0a49"
+    ],
+    "desired": null
+  },
+  {
+    "id": "17d852f0-1e0a-11e9-952e-4f65f6aa0a49",
+    "name": "blue curacao",
+    "groupIds": [
+      "e6326450-1e06-11e9-952e-4f65f6aa0a49"
+    ],
+    "desired": null
+  },
+  {
+    "id": "1cadf6e0-1e0a-11e9-952e-4f65f6aa0a49",
+    "name": "amaretto",
+    "groupIds": [
+      "e6326450-1e06-11e9-952e-4f65f6aa0a49"
+    ],
+    "desired": null
+  },
+  {
+    "id": "24bf16c0-1e0a-11e9-952e-4f65f6aa0a49",
+    "name": "banana rum",
+    "groupIds": [
+      "e6326450-1e06-11e9-952e-4f65f6aa0a49"
+    ],
+    "desired": null
+  },
+  {
+    "id": "6af8baf0-1e0b-11e9-952e-4f65f6aa0a49",
+    "name": "Bombay blue saphire",
+    "groupIds": [
+      "f599df90-1e06-11e9-952e-4f65f6aa0a49"
+    ],
+    "desired": null
   }
 ]
