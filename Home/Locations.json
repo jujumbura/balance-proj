@@ -26,5 +26,13 @@
   {
     "id": "38412350-1e0a-11e9-952e-4f65f6aa0a49",
     "name": "liquor cabinet"
+  },
+  {
+    "id": "5586fe30-1ecd-11e9-b728-43bd869b1791",
+    "name": "garage fridge"
+  },
+  {
+    "id": "8e86a390-1ed0-11e9-b728-43bd869b1791",
+    "name": "garage freezer"
   }
 ]

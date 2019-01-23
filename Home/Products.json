@@ -3170,5 +3170,21 @@
       "a555b720-1b81-11e9-a430-3ba9344223b0"
     ],
     "desired": null
+  },
+  {
+    "id": "06627490-1ecf-11e9-b728-43bd869b1791",
+    "name": "large jar pickles",
+    "groupIds": [
+      "c73139c0-1a62-11e9-b58b-0952922fcb49"
+    ],
+    "desired": null
+  },
+  {
+    "id": "5880cb50-1ecf-11e9-b728-43bd869b1791",
+    "name": "bottle cran grape juice",
+    "groupIds": [
+      "211a6830-1e4b-11e9-ba17-5de01e44e7eb"
+    ],
+    "desired": null
   }
 ]
