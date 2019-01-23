@@ -2745,9 +2745,9 @@
     "locationId": "78af17b0-1b82-11e9-a430-3ba9344223b0",
     "quantity": 1,
     "size": 1,
-    "remain": 1,
+    "remain": 0,
     "acquireDate": "2019-01-20T05:03:09.413Z",
-    "disposeDate": null
+    "disposeDate": "2019-01-23T04:58:16.104Z"
   },
   {
     "id": "b9ef3f90-1c70-11e9-bb81-1320f99825e7",
