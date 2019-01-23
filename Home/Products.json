@@ -1846,7 +1846,7 @@
   },
   {
     "id": "2b50fd90-1b81-11e9-a430-3ba9344223b0",
-    "name": "yogurt",
+    "name": "Chobani yogurt",
     "groupIds": [
       "9a277960-1b2c-11e9-9219-a11b8f926d3b"
     ],
@@ -3184,6 +3184,22 @@
     "name": "bottle cran grape juice",
     "groupIds": [
       "211a6830-1e4b-11e9-ba17-5de01e44e7eb"
+    ],
+    "desired": null
+  },
+  {
+    "id": "310be800-1f1c-11e9-88be-6fa131a4bf69",
+    "name": "gallon milk",
+    "groupIds": [
+      "9a277960-1b2c-11e9-9219-a11b8f926d3b"
+    ],
+    "desired": null
+  },
+  {
+    "id": "c1eeaa60-1f1c-11e9-9acb-a7d4b7610c08",
+    "name": "Tillamook yogurt",
+    "groupIds": [
+      "9a277960-1b2c-11e9-9219-a11b8f926d3b"
     ],
     "desired": null
   }
