@@ -3445,9 +3445,9 @@
     "locationId": "dd334690-1d38-11e9-9f43-e5e9617845b1",
     "quantity": 6,
     "size": 1,
-    "remain": 1,
+    "remain": 0,
     "acquireDate": "2019-01-21T05:02:47.943Z",
-    "disposeDate": null
+    "disposeDate": "2019-01-24T14:11:31.454Z"
   },
   {
     "id": "d822ee20-1d39-11e9-9f43-e5e9617845b1",
