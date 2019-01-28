@@ -3338,5 +3338,69 @@
       "6e73d000-1b2e-11e9-9219-a11b8f926d3b"
     ],
     "desired": null
+  },
+  {
+    "id": "fb173660-2302-11e9-8f26-37407d9e0f7a",
+    "name": "bag chia seeds",
+    "groupIds": [
+      "160af190-185a-11e9-89ef-bbdd68d5495a"
+    ],
+    "desired": null
+  },
+  {
+    "id": "09319830-2303-11e9-8f26-37407d9e0f7a",
+    "name": "large can cherries",
+    "groupIds": [
+      "53c9af40-1a16-11e9-a55d-db770153b2f0"
+    ],
+    "desired": null
+  },
+  {
+    "id": "1f8eb130-2303-11e9-8f26-37407d9e0f7a",
+    "name": "tub dates",
+    "groupIds": [
+      "d690ca80-1859-11e9-89ef-bbdd68d5495a"
+    ],
+    "desired": null
+  },
+  {
+    "id": "319408d0-2303-11e9-8f26-37407d9e0f7a",
+    "name": "can enchilada sauce",
+    "groupIds": [
+      "160af190-185a-11e9-89ef-bbdd68d5495a"
+    ],
+    "desired": null
+  },
+  {
+    "id": "3ed4fa90-2303-11e9-8f26-37407d9e0f7a",
+    "name": "bottle dish soap",
+    "groupIds": [
+      "19818540-185b-11e9-89ef-bbdd68d5495a"
+    ],
+    "desired": null
+  },
+  {
+    "id": "6de02170-2303-11e9-8f26-37407d9e0f7a",
+    "name": "wool dryer balls",
+    "groupIds": [
+      "68374f00-2303-11e9-8f26-37407d9e0f7a"
+    ],
+    "desired": null
+  },
+  {
+    "id": "946594b0-2303-11e9-8f26-37407d9e0f7a",
+    "name": "shelf liner",
+    "groupIds": [
+      "84fc44b0-2303-11e9-8f26-37407d9e0f7a"
+    ],
+    "desired": null
+  },
+  {
+    "id": "8ae00b00-2308-11e9-ae0b-8daa6de3cf7b",
+    "name": "snack bag ready popcorn",
+    "groupIds": [
+      "ac441610-1859-11e9-89ef-bbdd68d5495a"
+    ],
+    "desired": null
   }
 ]

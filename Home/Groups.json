@@ -336,5 +336,17 @@
     "name": "hygiene",
     "parentIds": null,
     "desired": null
+  },
+  {
+    "id": "68374f00-2303-11e9-8f26-37407d9e0f7a",
+    "name": "laundry",
+    "parentIds": null,
+    "desired": null
+  },
+  {
+    "id": "84fc44b0-2303-11e9-8f26-37407d9e0f7a",
+    "name": "organizing",
+    "parentIds": null,
+    "desired": null
   }
 ]
