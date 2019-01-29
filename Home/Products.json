@@ -379,7 +379,7 @@
     "id": "ba6eca70-177b-11e9-9755-b10960a66adc",
     "name": "Simple Mills gf crackers",
     "groupIds": [
-      "ac441610-1859-11e9-89ef-bbdd68d5495a"
+      "5e1348b0-2387-11e9-8f20-2303be70d600"
     ],
     "desired": null
   },
@@ -387,7 +387,7 @@
     "id": "e93c4c10-177b-11e9-9755-b10960a66adc",
     "name": "Mary's Gone Crackers jalepeno",
     "groupIds": [
-      "ac441610-1859-11e9-89ef-bbdd68d5495a"
+      "5e1348b0-2387-11e9-8f20-2303be70d600"
     ],
     "desired": null
   },
@@ -761,7 +761,7 @@
     "groupIds": [
       "53c9af40-1a16-11e9-a55d-db770153b2f0"
     ],
-    "desired": null
+    "desired": 1
   },
   {
     "id": "5877ea50-177f-11e9-a080-03695f5e246d",
@@ -769,7 +769,7 @@
     "groupIds": [
       "53c9af40-1a16-11e9-a55d-db770153b2f0"
     ],
-    "desired": null
+    "desired": 1
   },
   {
     "id": "5e0f7eb0-177f-11e9-a080-03695f5e246d",
@@ -785,7 +785,7 @@
     "groupIds": [
       "53c9af40-1a16-11e9-a55d-db770153b2f0"
     ],
-    "desired": null
+    "desired": 1
   },
   {
     "id": "663251d0-177f-11e9-a080-03695f5e246d",
@@ -922,7 +922,7 @@
     "groupIds": [
       "53c9af40-1a16-11e9-a55d-db770153b2f0"
     ],
-    "desired": null
+    "desired": 1
   },
   {
     "id": "6e80d360-1780-11e9-a080-03695f5e246d",
@@ -1858,7 +1858,7 @@
     "groupIds": [
       "9a277960-1b2c-11e9-9219-a11b8f926d3b"
     ],
-    "desired": null
+    "desired": 1
   },
   {
     "id": "36b8e990-1b81-11e9-a430-3ba9344223b0",
@@ -2475,7 +2475,7 @@
     "groupIds": [
       "160af190-185a-11e9-89ef-bbdd68d5495a"
     ],
-    "desired": null
+    "desired": 1
   },
   {
     "id": "06a10220-1d38-11e9-9f43-e5e9617845b1",
@@ -3400,6 +3400,46 @@
     "name": "snack bag ready popcorn",
     "groupIds": [
       "ac441610-1859-11e9-89ef-bbdd68d5495a"
+    ],
+    "desired": null
+  },
+  {
+    "id": "fcbe83b0-2384-11e9-8f20-2303be70d600",
+    "name": "box compost bags",
+    "groupIds": [
+      "f4e11e00-2384-11e9-8f20-2303be70d600"
+    ],
+    "desired": 1
+  },
+  {
+    "id": "c1452ef0-2385-11e9-8f20-2303be70d600",
+    "name": "bag gf oats",
+    "groupIds": [
+      "efef9fe0-185b-11e9-89ef-bbdd68d5495a"
+    ],
+    "desired": 1
+  },
+  {
+    "id": "ff891ff0-2385-11e9-8f20-2303be70d600",
+    "name": "bag long grain rice",
+    "groupIds": [
+      "d5834b50-18cb-11e9-b4c9-2baac8285fe5"
+    ],
+    "desired": 1
+  },
+  {
+    "id": "0cdf4760-2386-11e9-8f20-2303be70d600",
+    "name": "bag sticky white rice",
+    "groupIds": [
+      "d5834b50-18cb-11e9-b4c9-2baac8285fe5"
+    ],
+    "desired": 1
+  },
+  {
+    "id": "57ff8a00-2388-11e9-9802-7d8d392827aa",
+    "name": "Trader Joe's yogurt",
+    "groupIds": [
+      "9a277960-1b2c-11e9-9219-a11b8f926d3b"
     ],
     "desired": null
   }

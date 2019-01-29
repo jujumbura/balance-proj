@@ -405,9 +405,9 @@
     "locationId": "2ed88580-1782-11e9-8e3f-91fcc88dfec6",
     "quantity": 1,
     "size": 1,
-    "remain": 0.5,
+    "remain": 0,
     "acquireDate": "2019-01-14T05:14:48.998Z",
-    "disposeDate": null
+    "disposeDate": "2019-01-29T05:25:49.872Z"
   },
   {
     "id": "5c3d3870-17bb-11e9-ae10-efbf273dc38d",
@@ -495,9 +495,9 @@
     "locationId": "2ed88580-1782-11e9-8e3f-91fcc88dfec6",
     "quantity": 1,
     "size": 1,
-    "remain": 1,
+    "remain": 0,
     "acquireDate": "2019-01-14T05:19:14.201Z",
-    "disposeDate": null
+    "disposeDate": "2019-01-29T05:19:22.751Z"
   },
   {
     "id": "03159f70-17bc-11e9-ae10-efbf273dc38d",
@@ -645,9 +645,9 @@
     "locationId": "2ed88580-1782-11e9-8e3f-91fcc88dfec6",
     "quantity": 1,
     "size": 1,
-    "remain": 0.25,
+    "remain": 0,
     "acquireDate": "2019-01-14T05:29:12.019Z",
-    "disposeDate": null
+    "disposeDate": "2019-01-29T05:18:17.716Z"
   },
   {
     "id": "5e996600-17bd-11e9-a621-3fe0885eabc0",
@@ -705,9 +705,9 @@
     "locationId": "2ed88580-1782-11e9-8e3f-91fcc88dfec6",
     "quantity": 1,
     "size": 1,
-    "remain": 1,
+    "remain": 0,
     "acquireDate": "2019-01-14T05:30:45.297Z",
-    "disposeDate": null
+    "disposeDate": "2019-01-29T05:17:41.020Z"
   },
   {
     "id": "a5afa400-17bd-11e9-a621-3fe0885eabc0",
@@ -715,9 +715,9 @@
     "locationId": "2ed88580-1782-11e9-8e3f-91fcc88dfec6",
     "quantity": 1,
     "size": 1,
-    "remain": 1,
+    "remain": 0,
     "acquireDate": "2019-01-14T05:31:25.800Z",
-    "disposeDate": null
+    "disposeDate": "2019-01-29T05:17:57.900Z"
   },
   {
     "id": "b1377410-17bd-11e9-a621-3fe0885eabc0",
@@ -905,9 +905,9 @@
     "locationId": "2ed88580-1782-11e9-8e3f-91fcc88dfec6",
     "quantity": 1,
     "size": 1,
-    "remain": 1,
+    "remain": 0,
     "acquireDate": "2019-01-14T05:39:39.310Z",
-    "disposeDate": null
+    "disposeDate": "2019-01-29T05:26:04.646Z"
   },
   {
     "id": "d71678b0-17be-11e9-a621-3fe0885eabc0",
@@ -995,9 +995,9 @@
     "locationId": "2ed88580-1782-11e9-8e3f-91fcc88dfec6",
     "quantity": 1,
     "size": 1,
-    "remain": 1,
+    "remain": 0,
     "acquireDate": "2019-01-14T05:42:39.745Z",
-    "disposeDate": null
+    "disposeDate": "2019-01-29T05:17:14.127Z"
   },
   {
     "id": "420cfa90-17bf-11e9-a621-3fe0885eabc0",
@@ -1005,9 +1005,9 @@
     "locationId": "2ed88580-1782-11e9-8e3f-91fcc88dfec6",
     "quantity": 1,
     "size": 1,
-    "remain": 1,
+    "remain": 0,
     "acquireDate": "2019-01-14T05:43:00.011Z",
-    "disposeDate": null
+    "disposeDate": "2019-01-29T05:20:00.149Z"
   },
   {
     "id": "46efbde0-17bf-11e9-a621-3fe0885eabc0",
@@ -2485,7 +2485,7 @@
     "locationId": "78af17b0-1b82-11e9-a430-3ba9344223b0",
     "quantity": 24,
     "size": 1,
-    "remain": 10,
+    "remain": 6,
     "acquireDate": "2019-01-20T04:52:44.680Z",
     "disposeDate": null
   },
@@ -2495,9 +2495,9 @@
     "locationId": "78af17b0-1b82-11e9-a430-3ba9344223b0",
     "quantity": 1,
     "size": 1,
-    "remain": 1,
+    "remain": 0,
     "acquireDate": "2019-01-20T04:53:25.789Z",
-    "disposeDate": null
+    "disposeDate": "2019-01-29T05:43:07.633Z"
   },
   {
     "id": "5d960090-1c6f-11e9-833e-af47d0b2db3e",
@@ -2515,7 +2515,7 @@
     "locationId": "78af17b0-1b82-11e9-a430-3ba9344223b0",
     "quantity": 28,
     "size": 1,
-    "remain": 20,
+    "remain": 13,
     "acquireDate": "2019-01-20T04:54:21.364Z",
     "disposeDate": null
   },
@@ -2525,9 +2525,9 @@
     "locationId": "78af17b0-1b82-11e9-a430-3ba9344223b0",
     "quantity": 1,
     "size": 1,
-    "remain": 1,
+    "remain": 0,
     "acquireDate": "2019-01-20T04:54:31.053Z",
-    "disposeDate": null
+    "disposeDate": "2019-01-29T05:41:03.909Z"
   },
   {
     "id": "8829f730-1c6f-11e9-833e-af47d0b2db3e",
@@ -2635,9 +2635,9 @@
     "locationId": "78af17b0-1b82-11e9-a430-3ba9344223b0",
     "quantity": 1,
     "size": 1,
-    "remain": 1,
+    "remain": 0,
     "acquireDate": "2019-01-20T04:59:57.819Z",
-    "disposeDate": null
+    "disposeDate": "2019-01-29T05:43:56.482Z"
   },
   {
     "id": "41ec9790-1c70-11e9-bb81-1320f99825e7",
@@ -2695,9 +2695,9 @@
     "locationId": "78af17b0-1b82-11e9-a430-3ba9344223b0",
     "quantity": 1,
     "size": 1,
-    "remain": 1,
+    "remain": 0,
     "acquireDate": "2019-01-20T05:02:18.813Z",
-    "disposeDate": null
+    "disposeDate": "2019-01-29T05:18:44.581Z"
   },
   {
     "id": "9561a4b0-1c70-11e9-bb81-1320f99825e7",
@@ -2705,9 +2705,9 @@
     "locationId": "78af17b0-1b82-11e9-a430-3ba9344223b0",
     "quantity": 2,
     "size": 1,
-    "remain": 2,
+    "remain": 0,
     "acquireDate": "2019-01-20T05:02:26.394Z",
-    "disposeDate": null
+    "disposeDate": "2019-01-29T05:57:36.828Z"
   },
   {
     "id": "9b40a250-1c70-11e9-bb81-1320f99825e7",
@@ -2715,9 +2715,9 @@
     "locationId": "78af17b0-1b82-11e9-a430-3ba9344223b0",
     "quantity": 2,
     "size": 1,
-    "remain": 2,
+    "remain": 0,
     "acquireDate": "2019-01-20T05:02:36.443Z",
-    "disposeDate": null
+    "disposeDate": "2019-01-29T05:58:00.857Z"
   },
   {
     "id": "a29ec5e0-1c70-11e9-bb81-1320f99825e7",
@@ -2735,9 +2735,9 @@
     "locationId": "78af17b0-1b82-11e9-a430-3ba9344223b0",
     "quantity": 1,
     "size": 1,
-    "remain": 1,
+    "remain": 0,
     "acquireDate": "2019-01-20T05:02:59.793Z",
-    "disposeDate": null
+    "disposeDate": "2019-01-29T05:47:52.067Z"
   },
   {
     "id": "af58ad50-1c70-11e9-bb81-1320f99825e7",
@@ -2765,9 +2765,9 @@
     "locationId": "78af17b0-1b82-11e9-a430-3ba9344223b0",
     "quantity": 1,
     "size": 1,
-    "remain": 1,
+    "remain": 0,
     "acquireDate": "2019-01-20T05:03:40.432Z",
-    "disposeDate": null
+    "disposeDate": "2019-01-29T05:47:12.145Z"
   },
   {
     "id": "c6d60360-1c70-11e9-bb81-1320f99825e7",
@@ -2775,9 +2775,9 @@
     "locationId": "78af17b0-1b82-11e9-a430-3ba9344223b0",
     "quantity": 1,
     "size": 1,
-    "remain": 1,
+    "remain": 0,
     "acquireDate": "2019-01-20T05:03:48.942Z",
-    "disposeDate": null
+    "disposeDate": "2019-01-29T05:49:53.133Z"
   },
   {
     "id": "de4b1c10-1c70-11e9-bb81-1320f99825e7",
@@ -2785,9 +2785,9 @@
     "locationId": "78af17b0-1b82-11e9-a430-3ba9344223b0",
     "quantity": 1,
     "size": 1,
-    "remain": 1,
+    "remain": 0,
     "acquireDate": "2019-01-20T05:04:27.592Z",
-    "disposeDate": null
+    "disposeDate": "2019-01-29T05:20:42.300Z"
   },
   {
     "id": "e3bbee90-1c70-11e9-bb81-1320f99825e7",
@@ -2795,9 +2795,9 @@
     "locationId": "78af17b0-1b82-11e9-a430-3ba9344223b0",
     "quantity": 1,
     "size": 1,
-    "remain": 1,
+    "remain": 0,
     "acquireDate": "2019-01-20T05:04:38.037Z",
-    "disposeDate": null
+    "disposeDate": "2019-01-29T05:49:21.933Z"
   },
   {
     "id": "fad72770-1c70-11e9-bb81-1320f99825e7",
@@ -3005,9 +3005,9 @@
     "locationId": "a5b46380-1ce2-11e9-a245-87ba947edf09",
     "quantity": 2,
     "size": 1,
-    "remain": 2,
+    "remain": 0,
     "acquireDate": "2019-01-20T18:43:56.688Z",
-    "disposeDate": null
+    "disposeDate": "2019-01-29T05:18:31.378Z"
   },
   {
     "id": "77cd06b0-1ce3-11e9-a245-87ba947edf09",
@@ -3245,9 +3245,9 @@
     "locationId": "a5b46380-1ce2-11e9-a245-87ba947edf09",
     "quantity": 1,
     "size": 1,
-    "remain": 1,
+    "remain": 0,
     "acquireDate": "2019-01-20T18:50:22.826Z",
-    "disposeDate": null
+    "disposeDate": "2019-01-29T05:26:18.999Z"
   },
   {
     "id": "46eb2e90-1ce4-11e9-a245-87ba947edf09",
@@ -3305,9 +3305,9 @@
     "locationId": "12048be0-1d39-11e9-9f43-e5e9617845b1",
     "quantity": 1,
     "size": 1,
-    "remain": 1,
+    "remain": 0,
     "acquireDate": "2019-01-21T04:57:45.688Z",
-    "disposeDate": null
+    "disposeDate": "2019-01-29T05:19:08.855Z"
   },
   {
     "id": "24004690-1d39-11e9-9f43-e5e9617845b1",
@@ -3425,9 +3425,9 @@
     "locationId": "78af17b0-1b82-11e9-a430-3ba9344223b0",
     "quantity": 4,
     "size": 1,
-    "remain": 3,
+    "remain": 0,
     "acquireDate": "2019-01-21T05:01:49.853Z",
-    "disposeDate": null
+    "disposeDate": "2019-01-29T05:14:51.867Z"
   },
   {
     "id": "b1410300-1d39-11e9-9f43-e5e9617845b1",
@@ -3485,9 +3485,9 @@
     "locationId": "78af17b0-1b82-11e9-a430-3ba9344223b0",
     "quantity": 1,
     "size": 1,
-    "remain": 1,
+    "remain": 0,
     "acquireDate": "2019-01-21T05:04:31.653Z",
-    "disposeDate": null
+    "disposeDate": "2019-01-29T05:49:05.368Z"
   },
   {
     "id": "185e6960-1d3a-11e9-9f43-e5e9617845b1",
@@ -4567,8 +4567,9 @@
     "locationId": "dd334690-1d38-11e9-9f43-e5e9617845b1",
     "quantity": 1,
     "size": 1,
-    "remain": 1,
-    "acquireDate": "2019-01-24T08:00:00.000Z"
+    "remain": 0,
+    "acquireDate": "2019-01-24T08:00:00.000Z",
+    "disposeDate": "2019-01-29T05:46:08.855Z"
   },
   {
     "id": "5f5bb930-22c1-11e9-badc-67490eefdb91",
@@ -4585,8 +4586,9 @@
     "locationId": "78af17b0-1b82-11e9-a430-3ba9344223b0",
     "quantity": 3,
     "size": 1,
-    "remain": 3,
-    "acquireDate": "2019-01-24T08:00:00.000Z"
+    "remain": 2,
+    "acquireDate": "2019-01-24T08:00:00.000Z",
+    "disposeDate": null
   },
   {
     "id": "6353ce60-22c1-11e9-badc-67490eefdb91",
@@ -4594,8 +4596,9 @@
     "locationId": "78af17b0-1b82-11e9-a430-3ba9344223b0",
     "quantity": 2,
     "size": 1,
-    "remain": 2,
-    "acquireDate": "2019-01-24T08:00:00.000Z"
+    "remain": 0,
+    "acquireDate": "2019-01-24T08:00:00.000Z",
+    "disposeDate": "2019-01-29T05:39:00.747Z"
   },
   {
     "id": "65523670-22c1-11e9-badc-67490eefdb91",
@@ -4612,8 +4615,9 @@
     "locationId": "a5b46380-1ce2-11e9-a245-87ba947edf09",
     "quantity": 2,
     "size": 1,
-    "remain": 2,
-    "acquireDate": "2019-01-24T08:00:00.000Z"
+    "remain": 1,
+    "acquireDate": "2019-01-24T08:00:00.000Z",
+    "disposeDate": null
   },
   {
     "id": "705b3990-22c1-11e9-badc-67490eefdb91",
@@ -4630,8 +4634,9 @@
     "locationId": "78af17b0-1b82-11e9-a430-3ba9344223b0",
     "quantity": 1,
     "size": 1,
-    "remain": 1,
-    "acquireDate": "2019-01-24T08:00:00.000Z"
+    "remain": 0,
+    "acquireDate": "2019-01-24T08:00:00.000Z",
+    "disposeDate": "2019-01-29T05:47:06.263Z"
   },
   {
     "id": "74858250-22c1-11e9-badc-67490eefdb91",
@@ -4648,8 +4653,9 @@
     "locationId": "78af17b0-1b82-11e9-a430-3ba9344223b0",
     "quantity": 1,
     "size": 1,
-    "remain": 1,
-    "acquireDate": "2019-01-24T08:00:00.000Z"
+    "remain": 0,
+    "acquireDate": "2019-01-24T08:00:00.000Z",
+    "disposeDate": "2019-01-29T05:48:23.872Z"
   },
   {
     "id": "77be3f20-22c1-11e9-badc-67490eefdb91",
@@ -4684,8 +4690,9 @@
     "locationId": "78af17b0-1b82-11e9-a430-3ba9344223b0",
     "quantity": 1,
     "size": 1,
-    "remain": 1,
-    "acquireDate": "2019-01-24T08:00:00.000Z"
+    "remain": 0,
+    "acquireDate": "2019-01-24T08:00:00.000Z",
+    "disposeDate": "2019-01-29T05:48:06.890Z"
   },
   {
     "id": "7e475f70-22c1-11e9-badc-67490eefdb91",
@@ -4702,8 +4709,9 @@
     "locationId": "78af17b0-1b82-11e9-a430-3ba9344223b0",
     "quantity": 1,
     "size": 1,
-    "remain": 1,
-    "acquireDate": "2019-01-24T08:00:00.000Z"
+    "remain": 0,
+    "acquireDate": "2019-01-24T08:00:00.000Z",
+    "disposeDate": "2019-01-29T05:48:44.815Z"
   },
   {
     "id": "84afff70-22c1-11e9-badc-67490eefdb91",
@@ -4821,5 +4829,35 @@
     "size": 1,
     "remain": 1,
     "acquireDate": "2019-01-28T14:22:23.014Z"
+  },
+  {
+    "id": "1ca81c80-2386-11e9-8f20-2303be70d600",
+    "productId": "ff891ff0-2385-11e9-8f20-2303be70d600",
+    "locationId": "2ed88580-1782-11e9-8e3f-91fcc88dfec6",
+    "quantity": 0.5,
+    "size": 1,
+    "remain": 0.5,
+    "acquireDate": "2019-01-29T05:24:08.022Z",
+    "disposeDate": null
+  },
+  {
+    "id": "3718e900-2386-11e9-8f20-2303be70d600",
+    "productId": "0cdf4760-2386-11e9-8f20-2303be70d600",
+    "locationId": "2ed88580-1782-11e9-8e3f-91fcc88dfec6",
+    "quantity": 0.25,
+    "size": 1,
+    "remain": 0.25,
+    "acquireDate": "2019-01-29T05:24:48.432Z",
+    "disposeDate": null
+  },
+  {
+    "id": "615dc350-2388-11e9-9802-7d8d392827aa",
+    "productId": "57ff8a00-2388-11e9-9802-7d8d392827aa",
+    "locationId": "78af17b0-1b82-11e9-a430-3ba9344223b0",
+    "quantity": 1,
+    "size": 1,
+    "remain": 1,
+    "acquireDate": "2019-01-29T05:40:22.930Z",
+    "disposeDate": null
   }
 ]
