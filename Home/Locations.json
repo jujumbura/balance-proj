@@ -38,5 +38,13 @@
   {
     "id": "1b007100-1f96-11e9-be53-7126d4662ba6",
     "name": "bathroom"
+  },
+  {
+    "id": "0473ac40-2838-11e9-806f-9b62ab88cd75",
+    "name": "car"
+  },
+  {
+    "id": "a1b552e0-283a-11e9-806f-9b62ab88cd75",
+    "name": "bedroom"
   }
 ]

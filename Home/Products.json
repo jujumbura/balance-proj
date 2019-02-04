@@ -938,7 +938,7 @@
     "groupIds": [
       "53c9af40-1a16-11e9-a55d-db770153b2f0"
     ],
-    "desired": null
+    "desired": 1
   },
   {
     "id": "78869750-1780-11e9-a080-03695f5e246d",
@@ -3438,6 +3438,222 @@
   {
     "id": "57ff8a00-2388-11e9-9802-7d8d392827aa",
     "name": "Trader Joe's yogurt",
+    "groupIds": [
+      "9a277960-1b2c-11e9-9219-a11b8f926d3b"
+    ],
+    "desired": null
+  },
+  {
+    "id": "67b87080-2831-11e9-8f92-dfa875e9c4e8",
+    "name": "box rice crackers",
+    "groupIds": [
+      "5e1348b0-2387-11e9-8f20-2303be70d600"
+    ],
+    "desired": null
+  },
+  {
+    "id": "2184add0-2832-11e9-8f92-dfa875e9c4e8",
+    "name": "applesauce container",
+    "groupIds": [
+      "ac441610-1859-11e9-89ef-bbdd68d5495a"
+    ],
+    "desired": null
+  },
+  {
+    "id": "616d0a90-2833-11e9-8f92-dfa875e9c4e8",
+    "name": "box multigrain Cheerios",
+    "groupIds": [
+      "01deb060-185c-11e9-89ef-bbdd68d5495a"
+    ],
+    "desired": null
+  },
+  {
+    "id": "00a0f630-2834-11e9-806f-9b62ab88cd75",
+    "name": "can diced chiles",
+    "groupIds": [
+      "53c9af40-1a16-11e9-a55d-db770153b2f0"
+    ],
+    "desired": null
+  },
+  {
+    "id": "59e3f480-2835-11e9-806f-9b62ab88cd75",
+    "name": "carton orange juice",
+    "groupIds": [
+      "211a6830-1e4b-11e9-ba17-5de01e44e7eb"
+    ],
+    "desired": null
+  },
+  {
+    "id": "82b1f830-2835-11e9-806f-9b62ab88cd75",
+    "name": "box tampons",
+    "groupIds": [
+      "822e4030-1f98-11e9-be53-7126d4662ba6"
+    ],
+    "desired": null
+  },
+  {
+    "id": "b68a5e90-2835-11e9-806f-9b62ab88cd75",
+    "name": "pack wet ones",
+    "groupIds": [
+      "822e4030-1f98-11e9-be53-7126d4662ba6"
+    ],
+    "desired": null
+  },
+  {
+    "id": "c5371550-2835-11e9-806f-9b62ab88cd75",
+    "name": "protein bar",
+    "groupIds": [
+      "ac441610-1859-11e9-89ef-bbdd68d5495a"
+    ],
+    "desired": null
+  },
+  {
+    "id": "86b40300-2836-11e9-806f-9b62ab88cd75",
+    "name": "head lettuce",
+    "groupIds": [
+      "6e73d000-1b2e-11e9-9219-a11b8f926d3b"
+    ],
+    "desired": null
+  },
+  {
+    "id": "c69613a0-2836-11e9-806f-9b62ab88cd75",
+    "name": "apple",
+    "groupIds": [
+      "73b2e420-1b2e-11e9-9219-a11b8f926d3b"
+    ],
+    "desired": null
+  },
+  {
+    "id": "e5d000f0-2836-11e9-806f-9b62ab88cd75",
+    "name": "onion",
+    "groupIds": [
+      "6e73d000-1b2e-11e9-9219-a11b8f926d3b"
+    ],
+    "desired": null
+  },
+  {
+    "id": "17945460-2837-11e9-806f-9b62ab88cd75",
+    "name": "head cabbage",
+    "groupIds": [
+      "6e73d000-1b2e-11e9-9219-a11b8f926d3b"
+    ],
+    "desired": null
+  },
+  {
+    "id": "433945d0-2837-11e9-806f-9b62ab88cd75",
+    "name": "container tofu",
+    "groupIds": [
+      "160af190-185a-11e9-89ef-bbdd68d5495a"
+    ],
+    "desired": null
+  },
+  {
+    "id": "77dc9d50-2837-11e9-806f-9b62ab88cd75",
+    "name": "orange",
+    "groupIds": [
+      "73b2e420-1b2e-11e9-9219-a11b8f926d3b"
+    ],
+    "desired": null
+  },
+  {
+    "id": "ab9baf50-2837-11e9-806f-9b62ab88cd75",
+    "name": "bunch carrots",
+    "groupIds": [
+      "6e73d000-1b2e-11e9-9219-a11b8f926d3b"
+    ],
+    "desired": null
+  },
+  {
+    "id": "0bb59fd0-2839-11e9-806f-9b62ab88cd75",
+    "name": "pack flour tortillas",
+    "groupIds": [
+      "fae2da00-1b2d-11e9-9219-a11b8f926d3b"
+    ],
+    "desired": null
+  },
+  {
+    "id": "169018e0-2839-11e9-806f-9b62ab88cd75",
+    "name": "bag pop chips",
+    "groupIds": [
+      "ac441610-1859-11e9-89ef-bbdd68d5495a"
+    ],
+    "desired": null
+  },
+  {
+    "id": "1ce4e2c0-2839-11e9-806f-9b62ab88cd75",
+    "name": "baby cookies",
+    "groupIds": [
+      "ac441610-1859-11e9-89ef-bbdd68d5495a"
+    ],
+    "desired": null
+  },
+  {
+    "id": "245a10c0-2839-11e9-806f-9b62ab88cd75",
+    "name": "gf pie crust",
+    "groupIds": [
+      "b6a2f680-1859-11e9-89ef-bbdd68d5495a"
+    ],
+    "desired": null
+  },
+  {
+    "id": "328ae0c0-2839-11e9-806f-9b62ab88cd75",
+    "name": "bag chickpea pasta",
+    "groupIds": [
+      "273bc7f0-1a17-11e9-a55d-db770153b2f0"
+    ],
+    "desired": null
+  },
+  {
+    "id": "46dd35a0-2839-11e9-806f-9b62ab88cd75",
+    "name": "Mary's Gone Crackers",
+    "groupIds": [
+      "5e1348b0-2387-11e9-8f20-2303be70d600"
+    ],
+    "desired": null
+  },
+  {
+    "id": "517db2f0-2839-11e9-806f-9b62ab88cd75",
+    "name": "carton rice milk",
+    "groupIds": [
+      "9a277960-1b2c-11e9-9219-a11b8f926d3b"
+    ],
+    "desired": null
+  },
+  {
+    "id": "5d2c6bf0-2839-11e9-806f-9b62ab88cd75",
+    "name": "box arugula",
+    "groupIds": [
+      "7de8b8c0-1b2e-11e9-9219-a11b8f926d3b"
+    ],
+    "desired": null
+  },
+  {
+    "id": "6604d370-2839-11e9-806f-9b62ab88cd75",
+    "name": "hand lotion",
+    "groupIds": [
+      "822e4030-1f98-11e9-be53-7126d4662ba6"
+    ],
+    "desired": null
+  },
+  {
+    "id": "70642910-2839-11e9-806f-9b62ab88cd75",
+    "name": "carton almond milk",
+    "groupIds": [
+      "9a277960-1b2c-11e9-9219-a11b8f926d3b"
+    ],
+    "desired": null
+  },
+  {
+    "id": "7fc90c40-2839-11e9-806f-9b62ab88cd75",
+    "name": "generic yogurt",
+    "groupIds": [
+      "9a277960-1b2c-11e9-9219-a11b8f926d3b"
+    ],
+    "desired": null
+  },
+  {
+    "id": "87a6c010-2839-11e9-806f-9b62ab88cd75",
+    "name": "tub cottage cheese",
     "groupIds": [
       "9a277960-1b2c-11e9-9219-a11b8f926d3b"
     ],
