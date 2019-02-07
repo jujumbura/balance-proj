@@ -1906,7 +1906,7 @@
     "groupIds": [
       "9a277960-1b2c-11e9-9219-a11b8f926d3b"
     ],
-    "desired": null
+    "desired": 1
   },
   {
     "id": "6583d320-1b81-11e9-a430-3ba9344223b0",
@@ -2002,7 +2002,7 @@
     "groupIds": [
       "6e73d000-1b2e-11e9-9219-a11b8f926d3b"
     ],
-    "desired": null
+    "desired": 1
   },
   {
     "id": "dea1d630-1b81-11e9-a430-3ba9344223b0",
@@ -2026,7 +2026,7 @@
     "groupIds": [
       "6e73d000-1b2e-11e9-9219-a11b8f926d3b"
     ],
-    "desired": null
+    "desired": 2
   },
   {
     "id": "f277f630-1b81-11e9-a430-3ba9344223b0",
@@ -2050,7 +2050,7 @@
     "groupIds": [
       "6e73d000-1b2e-11e9-9219-a11b8f926d3b"
     ],
-    "desired": null
+    "desired": 1
   },
   {
     "id": "07ee31a0-1b82-11e9-a430-3ba9344223b0",
@@ -3529,7 +3529,7 @@
     "groupIds": [
       "6e73d000-1b2e-11e9-9219-a11b8f926d3b"
     ],
-    "desired": null
+    "desired": 2
   },
   {
     "id": "17945460-2837-11e9-806f-9b62ab88cd75",
