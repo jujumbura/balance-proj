@@ -3658,5 +3658,93 @@
       "9a277960-1b2c-11e9-9219-a11b8f926d3b"
     ],
     "desired": null
+  },
+  {
+    "id": "9e1a0fe0-2cbd-11e9-a017-09140e1b72de",
+    "name": "bag marshmallows",
+    "groupIds": [
+      "b6a2f680-1859-11e9-89ef-bbdd68d5495a"
+    ],
+    "desired": 1
+  },
+  {
+    "id": "5f1faab0-2cbe-11e9-a017-09140e1b72de",
+    "name": "bag shredded cheddar cheese",
+    "groupIds": [
+      "9a277960-1b2c-11e9-9219-a11b8f926d3b"
+    ],
+    "desired": null
+  },
+  {
+    "id": "88e49180-2cbe-11e9-a017-09140e1b72de",
+    "name": "soy yogurt",
+    "groupIds": [
+      "9a277960-1b2c-11e9-9219-a11b8f926d3b"
+    ],
+    "desired": null
+  },
+  {
+    "id": "f4644090-2cbe-11e9-a017-09140e1b72de",
+    "name": "bunch radishes",
+    "groupIds": [
+      "6e73d000-1b2e-11e9-9219-a11b8f926d3b"
+    ],
+    "desired": null
+  },
+  {
+    "id": "987d3f00-2cf7-11e9-bd01-e117f3eca8c1",
+    "name": "cashew yogurt",
+    "groupIds": [
+      "9a277960-1b2c-11e9-9219-a11b8f926d3b"
+    ],
+    "desired": null
+  },
+  {
+    "id": "a4b52fc0-2cf8-11e9-bd01-e117f3eca8c1",
+    "name": "can chicken rice soup",
+    "groupIds": [
+      "e94bb680-1859-11e9-89ef-bbdd68d5495a"
+    ],
+    "desired": null
+  },
+  {
+    "id": "fd240aa0-2cf8-11e9-bd01-e117f3eca8c1",
+    "name": "mango",
+    "groupIds": [
+      "73b2e420-1b2e-11e9-9219-a11b8f926d3b"
+    ],
+    "desired": null
+  },
+  {
+    "id": "936e29a0-2cf9-11e9-bd01-e117f3eca8c1",
+    "name": "bag baby carrots",
+    "groupIds": [
+      "6e73d000-1b2e-11e9-9219-a11b8f926d3b"
+    ],
+    "desired": null
+  },
+  {
+    "id": "fa313b00-2cf9-11e9-bd01-e117f3eca8c1",
+    "name": "head cauliflower",
+    "groupIds": [
+      "6e73d000-1b2e-11e9-9219-a11b8f926d3b"
+    ],
+    "desired": null
+  },
+  {
+    "id": "5d5839e0-2cfa-11e9-bd01-e117f3eca8c1",
+    "name": "box cinnamon chex",
+    "groupIds": [
+      "01deb060-185c-11e9-89ef-bbdd68d5495a"
+    ],
+    "desired": null
+  },
+  {
+    "id": "8f25b510-2cfa-11e9-bd01-e117f3eca8c1",
+    "name": "can hominy",
+    "groupIds": [
+      "6e73d000-1b2e-11e9-9219-a11b8f926d3b"
+    ],
+    "desired": null
   }
 ]
