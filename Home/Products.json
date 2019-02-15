@@ -1682,7 +1682,7 @@
     "groupIds": [
       "8f3b0090-185b-11e9-89ef-bbdd68d5495a"
     ],
-    "desired": null
+    "desired": 1
   },
   {
     "id": "ed0d3ed0-1b2c-11e9-9219-a11b8f926d3b",
@@ -3744,6 +3744,78 @@
     "name": "can hominy",
     "groupIds": [
       "6e73d000-1b2e-11e9-9219-a11b8f926d3b"
+    ],
+    "desired": null
+  },
+  {
+    "id": "3c3cf960-30df-11e9-ba87-85a3926dc1ce",
+    "name": "roll paper towels",
+    "groupIds": [
+      "19818540-185b-11e9-89ef-bbdd68d5495a"
+    ],
+    "desired": 6
+  },
+  {
+    "id": "4a1967d0-30df-11e9-ba87-85a3926dc1ce",
+    "name": "roll toilet paper",
+    "groupIds": [
+      "19818540-185b-11e9-89ef-bbdd68d5495a"
+    ],
+    "desired": 12
+  },
+  {
+    "id": "8b4ab4c0-30df-11e9-ba87-85a3926dc1ce",
+    "name": "kirk sig beer",
+    "groupIds": [
+      "76feab20-1e4c-11e9-ba17-5de01e44e7eb"
+    ],
+    "desired": null
+  },
+  {
+    "id": "b4583270-30df-11e9-ba87-85a3926dc1ce",
+    "name": "bag pecans",
+    "groupIds": [
+      "1acbfc10-185a-11e9-89ef-bbdd68d5495a"
+    ],
+    "desired": null
+  },
+  {
+    "id": "d766f580-30df-11e9-ba87-85a3926dc1ce",
+    "name": "pack baby wipes",
+    "groupIds": [
+      "da14cbb0-185a-11e9-89ef-bbdd68d5495a"
+    ],
+    "desired": null
+  },
+  {
+    "id": "069582e0-30e0-11e9-ba87-85a3926dc1ce",
+    "name": "spanish wine",
+    "groupIds": [
+      "edab89f0-1e06-11e9-952e-4f65f6aa0a49"
+    ],
+    "desired": null
+  },
+  {
+    "id": "49c33c10-30e0-11e9-ba87-85a3926dc1ce",
+    "name": "bag kale salad",
+    "groupIds": [
+      "7de8b8c0-1b2e-11e9-9219-a11b8f926d3b"
+    ],
+    "desired": null
+  },
+  {
+    "id": "50dc23d0-30e1-11e9-ba87-85a3926dc1ce",
+    "name": "crunchmaster crackers",
+    "groupIds": [
+      "5e1348b0-2387-11e9-8f20-2303be70d600"
+    ],
+    "desired": null
+  },
+  {
+    "id": "71eb9f00-30e2-11e9-ba87-85a3926dc1ce",
+    "name": "ghost fish 22oz",
+    "groupIds": [
+      "76feab20-1e4c-11e9-ba17-5de01e44e7eb"
     ],
     "desired": null
   }
