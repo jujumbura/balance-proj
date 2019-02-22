@@ -3818,5 +3818,45 @@
       "76feab20-1e4c-11e9-ba17-5de01e44e7eb"
     ],
     "desired": null
+  },
+  {
+    "id": "24e8ee40-3666-11e9-945f-8b38574aa516",
+    "name": "box coconut milk",
+    "groupIds": [
+      "f73cdcf0-19ef-11e9-9bff-372b39a1984c"
+    ],
+    "desired": null
+  },
+  {
+    "id": "38018aa0-3666-11e9-945f-8b38574aa516",
+    "name": "gf preztels",
+    "groupIds": [
+      "5e1348b0-2387-11e9-8f20-2303be70d600"
+    ],
+    "desired": null
+  },
+  {
+    "id": "6fb24930-3666-11e9-945f-8b38574aa516",
+    "name": "eggplant",
+    "groupIds": [
+      "6e73d000-1b2e-11e9-9219-a11b8f926d3b"
+    ],
+    "desired": null
+  },
+  {
+    "id": "7f75a010-3666-11e9-945f-8b38574aa516",
+    "name": "bamba peanut snacks",
+    "groupIds": [
+      "ac441610-1859-11e9-89ef-bbdd68d5495a"
+    ],
+    "desired": null
+  },
+  {
+    "id": "b44d26f0-3666-11e9-945f-8b38574aa516",
+    "name": "bag sweet potatoes",
+    "groupIds": [
+      "6e73d000-1b2e-11e9-9219-a11b8f926d3b"
+    ],
+    "desired": null
   }
 ]
